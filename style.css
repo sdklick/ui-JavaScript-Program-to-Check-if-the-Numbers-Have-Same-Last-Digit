@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+.myform {
+    color: aqua;
+    text-align: center;
+
+    margin-top: 5%;
+}
+
+#f1 {
+    margin-top: 2%;
+}
+
+#f2 {
+    margin-top: 2%;
+}
+
+#f3 {
+    margin-top: 2%;
+}
+
+.btn {
+    margin-top: 2%;
+}
+
+.btn:hover {
+    background-color: green;
+}
